@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sachin</h1>
+<h3 align="center">I'm passionate about Open Source, DevOps, Cloud, DSA</h3>
+
 - 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **Cloud, Kubernetes, Open Source**
