@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Cloud, Kubernetes, Open Source**
 
-- 📫 How to reach me **@sachin_404**
+- 📫 Find me on twitter **@sachin_404**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
