@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Cloud, Kubernetes, Open Source**
 
-- ✍ Check Out My **[Blog](https://ksachin.hashnode.dev)**
+- ✍ Check Out My **[Blog](https://sachinkant.hashnode.dev)**
 
 - 📫 Find me on twitter **[@sachin_404](https://twitter.com/sachin_404)**
 
