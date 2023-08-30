@@ -1,34 +1,21 @@
-<h1 align="center">Hi 👋, I'm Sachin</h1>
-<h3 align="center">I'm passionate about Open Source, DevOps, Cloud, DSA</h3>
+<h1 align="center">Hi 👋, I'm Sachin Kant</h1>
+<h3 align="center">A passionate DevOps and Backend developer</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-- 🌱 I’m currently learning **DevOps**
+# 💫 About Me:
+🔭 I’m currently exploring **Kubernetes** and **Microservices Architecture** <br>👯 I’m looking to collaborate on Open Source Projects<br>✍ Check Out My **[Blog](https://hashnode.com/@sachinkant)** <br> 📫 Find me on twitter **[@sachin_404](https://twitter.com/sachin_404)** <br>✉️ You can contact me at **[sachinkant404@gmail.com](mailto:sachinkant404@gmail.com)** <br>⚡ Fun fact I'm currently getting HTTP code 418
+<br>
 
-- 💬 Ask me about **Cloud, Kubernetes, Open Source**
-
-- ✍ Check Out My **[Blog](https://sachinkant.hashnode.dev)**
-
-- 📫 Find me on twitter **[@sachin_404](https://twitter.com/sachin_404)**
-
--  ✉️  You can contact me at [sachinkant404@gmail.com](mailto:sachinkant404@gmail.com)
-
-<h2 align="left">Socials:</h2>
+# 🌐 Socials:
 <p align="left">
 <a href="https://twitter.com/sachin_404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sachin_404" height="30" width="40" /></a>
-<a href="https://ksachin.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="40" height="30" /></a>
+<a href="(https://hashnode.com/@sachinkant)" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="40" height="30" /></a>
 <a href="https://www.leetcode.com/sachin404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sachin404" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sachin404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin404" height="30" width="40" /></a></p>
 
-<h2 align="left">Languages and Tools:</h2>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-## My [LeetCode](https://leetcode.com/sachin404) Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/sachin404?theme=dark&font=Yuji%20Syuku&ext=heatmap)
+# 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## My Badges
- 
 [![@sachinkant's Holopin board](https://holopin.me/sachinkant)](https://holopin.io/@sachinkant)
 
-### MY GItHub Stats
-<a href="http://www.github.com/sachin-404"><img src="https://github-readme-stats.vercel.app/api?username=sachin-404&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ef4444&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sachin-404's GitHub stats" /></a>
-
-<a href="http://www.github.com/sachin-404"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-404&stroke=ef4444&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ef4444&currStreakLabel=facc15&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
