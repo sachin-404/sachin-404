@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sachin Kant</h1>
 <h3 align="center">A passionate DevOps and Backend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="400" src="https://github.com/sachin-404/sachin-404/assets/96824004/5e435712-3024-4758-a92a-f7a0eeb774d3">
 
 # 💫 About Me:
 🔭 I’m currently exploring **Golang**, **Kubernetes** and **Microservices Architecture** <br>👯 I’m looking to collaborate on Open Source Projects<br>✍ Check Out My **[Blog](https://hashnode.com/@sachinkant)** <br> 📫 Find me on twitter **[@sachin_404](https://twitter.com/sachin_404)** <br>✉️ You can contact me at **[sachinkant404@gmail.com](mailto:sachinkant404@gmail.com)** <br>⚡ Fun fact I'm currently getting HTTP code 418
