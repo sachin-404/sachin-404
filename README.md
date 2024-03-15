@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sachin Kant</h1>
 
-Joined Github **2** years ago.
+I am a Software Engineer primarily interested in Backend/Infra/DevOps. I have a strong knowledge of various programming languages and technologies, including Python, Golang, Docker, Kubernetes, and AWS.
 
-Since then I pushed **274** commits, opened **2** issues, submitted **14** pull requests, received **4** stars across **17** personal projects and contributed to **3** public repositories.
+I Joined Github **2** years ago. Since then I pushed **275** commits, opened **2** issues, submitted **14** pull requests and contributed to **3** public repositories.
 
 Most used languages across my projects:
 
@@ -15,4 +15,7 @@ Most used languages across my projects:
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B11.8%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B11.9%25)
 
+Visit my **[Portfolio](https://sachinkant.vercel.app)** for more information about my Experiences, Projects, and more.
+
 <p align="right"><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p>
+
