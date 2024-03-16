@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sachin Kant</h1>
 
-I am a Software Engineer primarily interested in Backend/Infra/DevOps. I have a strong knowledge of various programming languages and technologies, including Python, Golang, Docker, Kubernetes, and AWS.
+I am a Software Engineer primarily interested in AI/Backend/Infra/DevOps. I have a strong knowledge of various programming languages and technologies, including Python, Golang, Docker, Kubernetes, and AWS.
 
 I Joined Github **{{ ACCOUNT_AGE }}** years ago. Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
