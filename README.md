@@ -2,7 +2,7 @@
 
 I am a Software Engineer primarily interested in AI/Backend/Infra/DevOps. I have a strong knowledge of various programming languages and technologies, including Python, Golang, Docker, Kubernetes, and AWS.
 
-I Joined Github **2** years ago. Since then I pushed **359** commits, opened **2** issues, submitted **30** pull requests and contributed to **5** public repositories.
+I Joined Github **2** years ago. Since then I pushed **359** commits, opened **2** issues, submitted **31** pull requests and contributed to **5** public repositories.
 
 Most used languages across my projects:
 
