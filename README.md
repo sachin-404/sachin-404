@@ -2,7 +2,7 @@
 
 I am a Software Engineer primarily interested in AI/Backend/Infra/DevOps. I have a strong knowledge of various programming languages and technologies, including Python, Golang, Docker, Kubernetes, and AWS.
 
-I Joined Github **3** years ago. Since then I pushed **1202** commits, opened **2** issues, submitted **385** pull requests and contributed to **9** public repositories.
+I Joined Github **3** years ago. Since then I pushed **1203** commits, opened **2** issues, submitted **385** pull requests and contributed to **9** public repositories.
 
 Most used languages across my projects:
 
@@ -17,18 +17,10 @@ Most used languages across my projects:
 
 ## 📊 Last 7 Days Coding Stats
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <figure><embed src="https://wakatime.com/share/@018e1f95-e0ef-4761-b275-4553aed18602/77964927-1e18-47b1-bf41-f02b9cac07f4.svg"></embed></figure>
-      </td>
-      <td width="50%">
-        <figure><embed src="https://wakatime.com/share/@018e1f95-e0ef-4761-b275-4553aed18602/5623b7f0-844d-4af1-bdfa-357baf91e22e.svg"></embed></figure>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://wakatime.com/share/@018e1f95-e0ef-4761-b275-4553aed18602/77964927-1e18-47b1-bf41-f02b9cac07f4.svg" alt="WakaTime Chart 1" width="49%">
+  <img src="https://wakatime.com/share/@018e1f95-e0ef-4761-b275-4553aed18602/5623b7f0-844d-4af1-bdfa-357baf91e22e.svg" alt="WakaTime Chart 2" width="49%">
+</p>
 
 <p align="right"><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p>
 
